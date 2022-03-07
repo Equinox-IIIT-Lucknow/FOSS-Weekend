@@ -7,3 +7,4 @@ Create a pull request for the issues and/or instructions highlighted in the read
 
 ## Web Development
 - A Modified version of the famous game ROCK PAPER SCISSOR with added fun - https://github.com/Shoray2002/Rock_Paper_Scissor_Lizard_Spock/  
+- An API with data on all participants of IIIT-L Equinox's FOSS Weekend - https://github.com/N-Shar-ma/FOSS-Weekend-Participants-API
