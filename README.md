@@ -10,3 +10,4 @@ Create a pull request for the issues and/or instructions highlighted in the read
 - A Modified version of the famous game ROCK PAPER SCISSOR with added fun - https://github.com/Shoray2002/Rock_Paper_Scissor_Lizard_Spock/  
 - An API with data on all participants of IIIT-L Equinox's FOSS Weekend - https://github.com/N-Shar-ma/FOSS-Weekend-Participants-API
 - An emoji guessing card matching game with cool animations - https://github.com/N-Shar-ma/FOSS-Weekend-Emoji-Card-Game
+- A minimalistic website for searching recipes by country using theMealDB api - https://github.com/N-Shar-ma/FOSS-Weekend-Meals-From-Around-The-World
