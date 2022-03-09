@@ -13,3 +13,4 @@ If the issue has `to be assigned` label, ask for the issue to be assigned to you
 - An API with data on all participants of IIIT-L Equinox's FOSS Weekend - https://github.com/N-Shar-ma/FOSS-Weekend-Participants-API
 - An emoji guessing card matching game with cool animations - https://github.com/N-Shar-ma/FOSS-Weekend-Emoji-Card-Game
 - A minimalistic website for searching recipes by country using theMealDB api - https://github.com/N-Shar-ma/FOSS-Weekend-Meals-From-Around-The-World
+- A simple responsive website (with dark mode 😎) for a fictional brand - https://github.com/N-Shar-ma/FOSS-Weekend-Klox-Website
