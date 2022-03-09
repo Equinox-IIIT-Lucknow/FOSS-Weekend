@@ -1,5 +1,7 @@
 # FOSS-Weekend
-Create a pull request for the issues and/or instructions highlighted in the readme of the following projects. Try to complete the `must do` tasks before you move further, because they will give you a very good foundational knowledge about git.
+Create a pull request for the issues and/or instructions highlighted in the readme of the following projects. Try to complete the `must do` tasks before you move further, because they will give you a very good foundational knowledge about git.y visiting the repositories, and looking through the issues. The issues are tagged *easy*, to *hard* depending on difficulty. You should try to start by trying to solve the easy issues before progressing to the harder ones.
+
+If the issue has `to be assigned` label, ask for the issue to be assigned to you, an start working only after you recieve confirmation that you have been assigned.
 
 ## Must do
 - Learn git for OSS development, right from the fundamentals - https://github.com/pranavgade20/practice-git
