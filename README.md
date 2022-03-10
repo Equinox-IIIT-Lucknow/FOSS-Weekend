@@ -16,7 +16,7 @@
 ## Projects
 
 ### Must do
-- Learn git for OSS development, right from the fundamentals - https://github.com/pranavgade20/practice-git
+- Learn git for FOSS development, right from the fundamentals - https://github.com/pranavgade20/practice-git
 - Add your participant profile JSON data - https://github.com/N-Shar-ma/FOSS-Weekend-Participants-API/issues/1
 
 
