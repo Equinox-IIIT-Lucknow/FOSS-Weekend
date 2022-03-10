@@ -3,6 +3,7 @@
 - Try to complete the `must do` tasks before you move further, because they will give you a very good foundational knowledge about git by visiting the repositories, and looking through the issues. 
 - The issues are tagged *easy*, to *hard* depending on difficulty. 
 - You should try to start by trying to solve the easy issues before progressing to the harder ones.
+- View the leaderboard at https://foss.iiitl.ac.in/
 
 
 ### Special Instructions for `to-be-assigned` labelled issues:
