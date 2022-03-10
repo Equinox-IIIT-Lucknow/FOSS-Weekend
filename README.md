@@ -19,3 +19,9 @@ If the issue has `to be assigned` label, ask for the issue to be assigned to you
 ## Android Development
  - A simple TIC-TAC-TOE game which you can play with your friends - https://github.com/ayush0402/tic-tac-toe-foss
  - A TODO list app that lets you add your tasks and edit, delete, or reorder them at any time - https://github.com/Rohit1173/TODO-APP-FOSS
+
+## Design Prototyping
+ - To be added soon...
+
+## Coding
+ - To be added soon...
