@@ -36,7 +36,7 @@
  - Design a prototype on various themes! https://github.com/AyushiPanth/FOSS-Design-Prototyping
 
 ### Flutter App Development
- - To be added soon...
+ - This application is developed to learn Flutter using Flutter. https://github.com/rktejesh/Fluttadex
 
 ### Coding
  - To be added soon...
