@@ -34,5 +34,8 @@
 ### Design Prototyping
  - Design a prototype on various themes! https://github.com/AyushiPanth/FOSS-Design-Prototyping
 
+### Flutter App Development
+ - To be added soon...
+
 ### Coding
  - To be added soon...
