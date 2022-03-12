@@ -39,6 +39,6 @@
  - This application is developed to learn Flutter using Flutter. https://github.com/rktejesh/Fluttadex
 
 ### Coding
- - To be added soon...
+ - https://github.com/AyushiPanth/Coding-FOSS
 
 ## [Leaderboard](https:///foss.iiitl.ac.in)
