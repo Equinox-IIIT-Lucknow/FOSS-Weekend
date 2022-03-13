@@ -1,4 +1,18 @@
 # FOSS-Weekend
+
+## About
+[Equinox'22](https://equinox.iiitl.ac.in/) presents a 3 day long event **FOSS Weekend** presented by **GitHub** and [**Axios**](http://axios.iiitl.ac.in/), where participants will get the opportunity to handle issues related to the technology that interests you and win exciting prizes from GitHub. This event will be a great chance for growing developers of 1st year to practice and brush up their skills in git, which is a very essential part of their learning journey.
+
+**Event Timeline:** 00:00 AM 11th March to 11:59 PM 13th March, 2022
+
+<p align="center">
+  <img width="460" src="https://user-images.githubusercontent.com/54657980/158048573-f2ca4f6b-1b19-4906-9ef0-9acd17a5098c.png">
+</p>
+
+
+
+## Instructions
+
 - Create a pull request for the issues and/or instructions highlighted in the readme of the following projects. 
 - Try to complete the `must do` tasks before you move further, because they will give you a very good foundational knowledge about git by visiting the repositories, and looking through the issues. 
 - The issues are tagged *easy*, to *hard* depending on difficulty. 
